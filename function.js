@@ -104,7 +104,7 @@ function resolver(){
             break;
 
         case "-":
-            res = parseFloat(operandoa) - parseFloat(opradndob);
+            res = parseFloat(operandoa) - parseFloat(operandob);
             break;
 
         case "*":
